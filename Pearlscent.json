@@ -1,0 +1,145 @@
+{
+  "replacement_rules": [
+    {
+      "name": "textures",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/blob/main/fcc06bbf-0829-4e29-80ac-661bcbb57a22-removebg-preview.png?raw=true"
+    },
+    {
+      "name": "all heads with ding",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 70643163489676
+    },
+    {
+      "name": "SkyBoxes",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766,
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110,
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231,
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128,
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902,
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "double jump 1",
+      "replace_ids": [
+        16770456156
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/raw/refs/heads/main/bell%20ding%20sfx.ogg"
+    },
+    {
+      "name": "double jump 2",
+      "replace_ids": [
+        16492958314
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/raw/refs/heads/main/bell%20ding%20sfx.ogg"
+    },
+    {
+      "name": "item backround",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/blob/main/IMG_4989.PNG?raw=true"
+    },
+    {
+      "name": "slide",
+      "replace_ids": [
+        16737738420
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/raw/refs/heads/main/sparkle.wav"
+    },
+    {
+      "name": "click sound",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/raw/refs/heads/main/universfield-water-drop-131023.mp3"
+    },
+    {
+      "name": "kill sound",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/H4rb0r-rbx/Fleasion-pearlscent-textures/raw/refs/heads/main/benkirb-shine-1-268902.mp3"
+    },
+{
+      "name": "dafont???",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/Garet-Book.ttf"
+    }
+  ]
+}
